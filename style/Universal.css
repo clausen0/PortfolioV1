@@ -23,3 +23,9 @@
     background-color: #ce9c12;
     color: white;
 }
+
+.portfolio-image {
+    width: 300px;
+    height: auto;
+    border-radius: 10px;
+}
